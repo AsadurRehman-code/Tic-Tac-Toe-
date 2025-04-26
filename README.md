@@ -12,9 +12,6 @@ The AI opponent is designed to make strategic moves to either win or block the p
 - Run `python tic_tac_toe.py`.
 - Play against the AI in the console!
 
-## 📸 Screenshot
-(Add a screenshot here if you want)
-
 ## 🚀 Future Improvements
 - Adding a GUI using Tkinter or Pygame.
 - Making the AI smarter using Minimax Algorithm.
